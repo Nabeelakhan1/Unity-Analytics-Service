@@ -1,4 +1,5 @@
 using Analytics.EventModels;
+using AnalyticsService.EventModels;
 
 namespace AnalyticsService.Interfaces
 {
